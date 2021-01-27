@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-dynamic-theming",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "color-scheme": "1.0.1",
+    "next": "latest",
+    "nice-color-palettes": "3.0.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.8.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
